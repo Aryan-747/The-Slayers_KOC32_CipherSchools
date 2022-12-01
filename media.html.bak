@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>Media</title>
+</head>
+<body style="background-image:linear-gradient(to bottom, white ,aqua);">
+<div style="margin-top:200px; margin-left:350px;width:750px;background-image:linear-gradient(to bottom, rgba(0,0,0,0.06),rgba(0,0,0,0.06));">
+<h1 align=center style="font:40px Jokerman; text-shadow:4px 4px yellow;"><u>THE TRIO CONSTRUCTIONS</u></h1>
+<table align=center border=0 cellpadding=5 width=650>
+<tr><td>
+<video width=600 height=250 controls autoplay loop muted poster="c:\html\images\c15.jpg"><source src="c:/html/imagesConstruction.mp4" type=video/mp4></video>
+<td><tr></table></div></body></html>

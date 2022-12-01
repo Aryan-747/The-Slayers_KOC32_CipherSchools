@@ -1,0 +1,41 @@
+<html>
+<head><title>The Trio Construction</title>
+<style>
+body{
+background-repeat:no-repeat;
+background-size:cover;
+}
+a:link{
+color:purple;
+}
+a:hover{
+color:green;
+}
+a:active{
+color:hotpink;
+}
+</style>
+</head>
+<body background="c:/html/images/c15.jpg">
+<a href="c:/html/images/trio.png"><img src="c:/html/images/trio.png" width=120 height=120></a>
+<br>
+<table border=2 cellpadding=5 width=120 height=60>
+<tr><td><h3><a href="c:/html/frame2.html" target="main">HOME</a></h2></td></tr></table>
+<br>
+<table border=2 cellpadding=5 width=120 height=60>
+<tr><td><a href="c:/html/aboutus.html" target="main"><h3>ABOUT US</a></h2></td></tr></table>
+<br>
+<table border=2 cellpadding=5 width=120 height=60>
+<tr><td><h3><a href="c:/html/our.html" target="main">OUR BUSINESS</a></h2></td></tr></table>
+<br>
+<table border=2 cellpadding=5 width=120 height=60>
+<tr><td><h3><a href="c:/html/project.html" target="main">PROJECTS</a></h2></td></tr></table>
+<br>
+<table border=2 cellpadding=5 width=120 height=60>
+<tr><td><h3><a href="c:/html/media.html" target="main">MEDIA</a></h2></td></tr></table>
+<br>
+<table border=2 cellpadding=5 width=120 height=60>
+<tr><td><h3><a href="c:/html/career.html" target="main">CAREER</a></h3></td></tr></table>
+<br>
+<table border=2 cellpadding=5 width=120 height=60>
+<tr><td><h3><a href="c:/html/contact.html" target="main">CONTACT US</a></h3></td></tr></table></body></html>

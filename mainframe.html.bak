@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>The Trio Constructions</title></head>
+<frameset cols=7%,85%>
+<frame name="left" src="c:/html/frame1.html">
+<frame name="main" src="c:/html/frame2.html">
+</frameset>
+</html>
